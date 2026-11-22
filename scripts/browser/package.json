@@ -1,0 +1,1 @@
+{"name":"smartdesk-browser-check","private":true,"type":"module","scripts":{"test":"node workflow.mjs"},"devDependencies":{"playwright-core":"^1.55.0"}}

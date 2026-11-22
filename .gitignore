@@ -1,0 +1,14 @@
+/.tools/
+/.env
+/.env.*
+!/.env.example
+/backend/target/
+/frontend/dist/
+/frontend/node_modules/
+/scripts/browser/node_modules/
+*.log
+*.mv.db
+*.trace.db
+.idea/
+.vscode/
+*.iml

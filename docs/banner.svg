@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">SmartDesk</title><desc id="desc">IT helpdesk and ticket management system</desc>
+<rect width="1200" height="260" rx="20" fill="#16372e"/>
+<g fill="none" stroke="#3c6756" stroke-width="2"><circle cx="1085" cy="130" r="85"/><circle cx="1085" cy="130" r="125"/><circle cx="1085" cy="130" r="165"/><path d="M820 130h380"/></g>
+<rect x="55" y="64" width="87" height="87" rx="24" fill="#b8edc1"/>
+<g transform="translate(73 80)" fill="none" stroke="#183b2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 34V25a20 20 0 0 1 40 0v9"/><rect x="5" y="26" width="9" height="16" rx="4"/><rect x="38" y="26" width="9" height="16" rx="4"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="165" y="128" fill="#fff" font-size="70" font-weight="650">SmartDesk</text><text x="58" y="198" fill="#c4dbcc" font-size="27">IT helpdesk &amp; ticket management system</text></g></svg>
